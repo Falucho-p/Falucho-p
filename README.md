@@ -16,5 +16,5 @@ I’m a 20-year-old Systems Analyst student currently in my second year. With a 
 💞 For now, I am not looking to collaborate on projects as I still have a lot to learn. However, I am open to connecting with others in the programming community for knowledge sharing, mentorship, and guidance!
 
 ## Contact Me
-📫 You can reach me on LinkedIn: [Ale Pueblas](www.linkedin.com/in/ale-pueblas-188446270)
+📫 You can reach me on LinkedIn: [Ale Pueblas](https://www.linkedin.com/in/ale-pueblas-188446270)
 
