@@ -30,7 +30,7 @@ Other Tools and Technologies:
 
 Check Out My Social Media:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-pueblas-188446270){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-pueblas-188446270)
 
 
 ## My GitHub Stats
