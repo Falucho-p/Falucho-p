@@ -61,5 +61,5 @@
 <br>
 
 [![](https://github-readme-stats.vercel.app/api?username=Falucho-p&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Falucho-p)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Falucho-p&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Falucho-p&theme=material-palenight)](https://github.com/Falucho-p)
 </div>
