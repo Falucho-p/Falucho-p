@@ -14,7 +14,7 @@
 - :nerd_face: Always eager to `learn new things`.
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Skills </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Skills </b>
 <p align="center">
 
 - 📋 Languages:
