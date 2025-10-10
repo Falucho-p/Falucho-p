@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Falucho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Ale</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -6,12 +6,14 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :school: I am a `Sophomore` studying `Systems Analysis` at my local institute.
-- :technologist: I love using `programming` to solve complex challenges and develop creative solutions.
-- :computer: I’m a passionate programmer, currently honing my skills in `Python`, `HTML`, `CSS`, `MySQL`.
-- :student: Constantly learning more about `programming` and `technology`.
-- :nerd_face: Always eager to `learn new things`.
+- :school: I’m currently in my **final year** of `Systems Analysis` at **Instituto Paula Robles**.  
+- :man_student: I’m **21 years old** and passionate about technology and programming.  
+- :technologist: I love using `code` to solve problems and create meaningful, functional projects.  
+- :computer: I’m skilled in `Python`, `C#`, `.NET`, `HTML`, `CSS`, and `MySQL`.  
+- :rocket: Currently developing projects that integrate `Angular`, `.NET`, and `MySQL Server`.  
+- :student: Always learning more about `software development`, `databases`, and `web technologies`.  
+- :nerd_face: Constantly improving my coding skills and exploring new tools and frameworks.  
+
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Skills </b>
