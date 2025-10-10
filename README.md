@@ -9,7 +9,7 @@
 - :school: I’m currently in my **final year** of `Systems Analysis` at **Instituto Paula Robles**.  
 - :man_student: I’m **21 years old** and passionate about technology and programming.  
 - :technologist: I love using `code` to solve problems and create meaningful, functional projects.  
-- :computer: I’m skilled in `Python`, `C#`, `.NET`, `HTML`, `CSS`, and `MySQL`.  
+- :computer: I’m skilled in `Python`, `C#`, `.NET`, `NODE.JS`, `HTML`, `CSS`, and `MySQL`.  
 - :rocket: Currently developing projects that integrate `Angular`, `.NET`, and `MySQL Server`.  
 - :student: Always learning more about `software development`, `databases`, and `web technologies`.  
 - :nerd_face: Constantly improving my coding skills and exploring new tools and frameworks.  
