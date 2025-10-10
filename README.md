@@ -69,6 +69,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-[![](https://github-readme-stats.vercel.app/api?username=Falucho-p&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Falucho-p)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Falucho-p&theme=material-palenight)](https://github.com/Falucho-p)
+[![](https://github-readme-stats.vercel.app/api?username=Alejo-Pueblas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Alejo-Pueblas)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Alejo-Pueblas&theme=material-palenight)](https://github.com/Alejo-Pueblas)
 </div>
