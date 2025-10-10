@@ -9,8 +9,7 @@
 - :school: I’m currently in my **final year** of `Systems Analysis` at **Instituto Paula Robles**.  
 - :man_student: I’m **21 years old** and passionate about technology and programming.  
 - :technologist: I love using `code` to solve problems and create meaningful, functional projects.  
-- :computer: I’m skilled in `Python`, `C#`, `.NET`, `NODE.JS`, `HTML`, `CSS`, and `MySQL`.  
-- :rocket: Currently developing projects that integrate `Angular`, `.NET`, and `MySQL Server`.  
+- :computer: I’m skilled in `Python`, `C#`, `.NET`, `NODE.JS`, `HTML`, `CSS`, and `MySQL`.    
 - :student: Always learning more about `software development`, `databases`, and `web technologies`.  
 - :nerd_face: Constantly improving my coding skills and exploring new tools and frameworks.  
 
@@ -51,6 +50,9 @@
 - 💻 IDEs/Editors:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+    ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+    ![Windsurf](https://img.shields.io/badge/Windsurf-1C7ED6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
     
 - 🥅 Others:
 
